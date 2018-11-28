@@ -1,0 +1,17 @@
+{
+    "name": "senac/projeto",
+    "description": "Projeto base para os alunos",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Luis Paulo L.",
+            "email": "prof.lpjunior@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "slim/slim": "^3.0",
+        "rain/raintpl": ">=3.0.0"
+    }
+}
